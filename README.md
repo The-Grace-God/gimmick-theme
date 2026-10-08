@@ -1,3 +1,7 @@
+# Hai Hai 
+
+This is just a fork to help clean up the theme (namely access violations) and maybe add some customization's to it though no promises
+
 # gimmick
 
 A minimal NotITG v4.3.0 theme focused on developer simplicity and modern
