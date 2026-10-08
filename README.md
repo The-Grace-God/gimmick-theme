@@ -4,7 +4,7 @@ This is just a fork to help clean up the theme (namely access violations) and ma
 
 # gimmick
 
-A minimal NotITG v4.3.0 theme focused on developer simplicity and modern
+A minimal NotITG v4.9.1 theme focused on developer simplicity and modern
 solutions.
 
 The intent is to make Gimmick a fully feature-complete theme, from regular
